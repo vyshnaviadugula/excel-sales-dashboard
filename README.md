@@ -60,6 +60,9 @@ Each row contains:
 - Students working on portfolio projects
 
 ---
+## 📸 Dashboard Preview
+
+![Sales Dashboard Screenshot](dashboard_screenshot_placeholder.png)
 
 ## 📌 Author
 
