@@ -62,7 +62,8 @@ Each row contains:
 ---
 ## 📸 Dashboard Preview
 
-![Sales Dashboard Screenshot](dashboard_screenshot_placeholder.png)
+![Sales Dashboard Screenshot](<img width="1920" height="1080" alt="Dashboard_screenshot" src="https://github.com/user-attachments/assets/a8e8e6b7-2fda-444c-80aa-a9698baedfe0" />
+)
 
 ## 📌 Author
 
